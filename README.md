@@ -24,9 +24,7 @@ A 2D platformer game that contains traps when a Player collides with traps  and 
 •	Scripts use [SerializeField] to expose fields in Unity’s Inspector without making them public.
 
 **Images**
-
-
-
+ ![](https://github.com/Sega-13/VirtualGuy/blob/main/Virtual%20Guy%20Runner/Images/Screenshot%202025-06-10%20160822.png) ![](https://github.com/Sega-13/VirtualGuy/blob/main/Virtual%20Guy%20Runner/Images/Screenshot%202025-06-10%20160907.png)
 
 
 
